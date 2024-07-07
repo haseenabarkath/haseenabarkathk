@@ -1,5 +1,3 @@
-<h1 align="left">Hey 👋 What's up?</h1>
-
 ### Hi there 👋, My name is Haseena
 #### I am a Web Developer 
 
