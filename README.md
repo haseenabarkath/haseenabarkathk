@@ -1,15 +1,5 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
-👋 Hello, world! I'm Haseena from India, a passionate coder and a student pursuing a B.Com in Information Systems Management. I hold a diploma in Computer Applications and am currently honing my skills in web development and front-end development. I love diving into code, exploring new technologies, and building awesome projects. Let's connect and create something amazing together! 🌟
-
-Skills: PYTHON | HTML | CSS | JAVASCRIPT | CANVA 
-
-- 🔭 I’m currently working on Javascript  
-- 🌱 I’m currently learning UiPath 
-- 📫 How to reach me: Mail Me: haseenabarkath315@gmail.com 
-- 😄 Pronouns: She/ Her 
-- ⚡ Fun fact: Love Errors  
-
 ### Hi there 👋, My name is Haseena
 #### I am a Web Developer 
 ![I am a Web Developer ](https://www.canva.com/design/DAGKQfRjStU/3yZlgz0z9r8j4EQwnriwug/edit?utm_content=DAGKQfRjStU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
